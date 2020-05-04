@@ -14,7 +14,7 @@
     "ext-hash": "*",
     "php": "5.6.* || 7.0.* || 7.1.* || 7.2.* || 7.3.*",
     "monolog/monolog": "^1.16",
-    "php-http/client-common": "^1.0",
+    "php-http/client-common": "^2.0",
     "php-http/discovery": "^1.0 <= 1.6.1",
     "php-http/message": "~1.6.0 || ~1.7.0",
     "robrichards/xmlseclibs": "~3.0.0",
