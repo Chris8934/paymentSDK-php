@@ -1,6 +1,6 @@
 {
-  "name": "chris8934/payment-sdk-php",
-  "description": "PHP SDK for the payment processing ReST API of Wirecard (Forked for Support with Symfony)",
+  "name": "wirecard/payment-sdk-php",
+  "description": "PHP SDK for the payment processing ReST API of Wirecard",
   "minimum-stability": "stable",
   "license": "MIT",
   "require": {
