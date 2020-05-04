@@ -2,6 +2,12 @@
 
 [![Wirecard Company](https://img.shields.io/badge/Wirecard-Company-blue.svg)](https://www.wirecard.com/)
 
+
+***
+### Fork
+Forked for symfony. See. https://github.com/wirecard/paymentSDK-php/issues/657
+***
+
 ***
 ### General information 
 Before proceeding please read the article [General information](https://github.com/wirecard/paymentSDK-php/wiki/General-information) first.
